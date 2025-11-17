@@ -10,4 +10,12 @@
 
 ## Download the Final Version
 You can download the finalized project here:  
-https://drive.google.com/file/d/1Hq4MizAe_gHjjs2z0odlHYiSZSuAEibN/view?usp=sharing
+[Download Project](https://drive.google.com/file/d/1Hq4MizAe_gHjjs2z0odlHYiSZSuAEibN/view?usp=sharing)
+
+## Project Introduction
+
+Aquaense is a project developed to support Egypt's 2030 Vision by providing a monitoring system for Egyptian fish farms.  
+
+It can handle up to **11 tanks**, each with different species, and monitor up to **8 sensors per tank**.  
+
+The system is also designed to be expandable, making it easy to add more tanks, sensors, and features in the future.
