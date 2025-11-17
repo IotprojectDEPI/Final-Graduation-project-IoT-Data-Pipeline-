@@ -14,8 +14,6 @@ You can download the finalized project here:
 
 ## Project Introduction
 
-Aquaense is a project developed to support Egypt's 2030 Vision by providing a monitoring system for Egyptian fish farms.  
-
+Aquasense is a project developed to support Egypt's 2030 Vision by providing a monitoring system for Egyptian fish farms.  
 It can handle up to **11 tanks**, each with different species, and monitor up to **8 sensors per tank**.  
-
 The system is also designed to be expandable, making it easy to add more tanks, sensors, and features in the future.
